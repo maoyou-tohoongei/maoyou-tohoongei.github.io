@@ -1,5 +1,4 @@
 .container{
-	display: flex;
 	max-width:1080px;
 }
 
@@ -66,6 +65,7 @@ header{
 		display: flex;
 	}
 }
+
 
 
 
