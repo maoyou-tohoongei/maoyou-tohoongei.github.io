@@ -1,3 +1,8 @@
+.container{
+	@media screen and(max-width: 960px)
+	@media screen and(max-width: 480px)
+}
+
 header{
 	color: white;
 	background-color: darkred;
@@ -47,5 +52,6 @@ header{
 .logo{
 	text-align: center;
 }
+
 
 
