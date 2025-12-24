@@ -52,10 +52,7 @@ header{
 	text-align: center;
 }
 
-@media screen and (max-width: 480px)
-{
-	body{
-		max-width:480px;
+
 
 
 
