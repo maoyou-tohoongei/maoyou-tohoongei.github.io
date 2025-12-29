@@ -16,6 +16,7 @@ header{
 
 .jacket{
 	text-align: center;
+	box-shadow: 5px 5px 5px;
 }
 
 .summary{
@@ -59,6 +60,7 @@ header{
 		display: flex;
 	}
 }
+
 
 
 
