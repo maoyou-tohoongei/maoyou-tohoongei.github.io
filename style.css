@@ -6,10 +6,6 @@ header{
 	padding: 3px;
 }
 
-.jacket{
-	text-align: center;
-}
-
 .caption{
 	letter-spacing: 10px;
 	text-align: center;
@@ -18,9 +14,12 @@ header{
 	font-family: serif;
 }
 
+.jacket{
+	text-align: center;
+}
+
 .summary{
 	text-align: center;
-	width: 80%:
 	font-size: 20px;
 	background-color: oldlace;
 	padding: 10px;
@@ -52,6 +51,7 @@ header{
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
