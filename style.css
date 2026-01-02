@@ -38,6 +38,8 @@ header{
 }
 
 .image{
+	width: 250px;
+	height: 250px;
 	margin-right: 5px;
 	margin-left: 5px;
 }
@@ -51,6 +53,7 @@ header{
 	text-align: center;
 	font-size: 50px;
 }
+
 
 
 
