@@ -23,7 +23,7 @@ header{
 	font-size: 20px;
 	background-color: oldlace;
 	padding: 10px;
-	outline: 2px dotted black;
+	outline: 2px dashed black;
 }
 
 .introduction{
@@ -38,8 +38,6 @@ header{
 }
 
 .image{
-	width: 250px;
-	height: 250px;
 	margin-right: 5px;
 	margin-left: 5px;
 }
@@ -53,6 +51,7 @@ header{
 	text-align: center;
 	font-size: 50px;
 }
+
 
 
 
