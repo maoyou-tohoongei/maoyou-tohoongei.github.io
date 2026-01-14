@@ -21,7 +21,7 @@ header{
 .summary{
 	text-align: center;
 	font-size: 30px;
-	padding: 200px;
+	padding: 100px;
 }
 
 .introduction{
@@ -29,7 +29,7 @@ header{
 	font-size: 30px;
 	background-colar: #fdf5e6 ;
 	outline: 2px dashed black;
-	padding: 5px;
+	padding: 10px;
 }
 
 .description{
@@ -39,7 +39,7 @@ header{
 }
 
 h2 {
-	font-size: 15px;
+	font-size: 20px;
 }
 
 .image{
@@ -55,6 +55,7 @@ h2 {
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
