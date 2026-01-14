@@ -21,19 +21,20 @@ header{
 .summary{
 	text-align: center;
 	font-size: 30px;
-	padding: 50px;
+	padding: 200px;
 }
 
 .introduction{
 	text-align: center;
 	font-size: 30px;
-	background-colar: oldlace;
+	background-colar: #fdf5e6 ;
 	outline: 2px dashed black;
+	padding: 5px;
 }
 
 .description{
 	display: flex;
-	font-size: 30px;
+	font-size: 25px;
 
 }
 
@@ -51,6 +52,7 @@ header{
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
