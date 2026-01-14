@@ -10,7 +10,7 @@ header{
 	letter-spacing: 10px;
 	text-align: center;
 	line-height: 2;
-	font-size: 70px;
+	font-size: 80px;
 	font-family: serif;
 }
 
@@ -21,13 +21,13 @@ header{
 .summary{
 	text-align: center;
 	font-size: 30px;
-	padding: 100px;
+	padding: 150px;
 }
 
 .introduction{
 	text-align: center;
 	font-size: 30px;
-	background-colar: #fdf5e6 ;
+	background-colar: lightgreen ;
 	outline: 2px dashed black;
 	padding: 10px;
 }
@@ -39,7 +39,7 @@ header{
 }
 
 h2 {
-	font-size: 20px;
+	font-size: 50px;
 }
 
 .image{
@@ -55,6 +55,7 @@ h2 {
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
