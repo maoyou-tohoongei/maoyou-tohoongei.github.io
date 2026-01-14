@@ -34,13 +34,12 @@ header{
 
 .description{
 	display: flex;
-	font-size: 25px;
+	font-size: 20px;
 
 }
 
 .image{
 	margin-right: 5px;
-	margin-left: 5px;
 }
 
 .desc{
@@ -52,6 +51,7 @@ header{
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
