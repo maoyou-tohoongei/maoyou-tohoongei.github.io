@@ -38,6 +38,10 @@ header{
 
 }
 
+h2 {
+	font-size: 10px;
+}
+
 .image{
 	margin-right: 5px;
 }
@@ -51,6 +55,7 @@ header{
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
