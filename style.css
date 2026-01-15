@@ -21,7 +21,7 @@ header{
 .summary{
 	text-align: center;
 	font-size: 30px;
-	padding: 100px;
+	padding: 90px;
 }
 
 h1 {
@@ -58,7 +58,7 @@ h2 {
 
 .topic{
 	text-align: center;
-	text-size: 30px;
+	font-size: 30px;
 }
 
 ul {
@@ -71,6 +71,7 @@ ul {
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
