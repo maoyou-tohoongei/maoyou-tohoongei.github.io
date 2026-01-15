@@ -21,25 +21,25 @@ header{
 .summary{
 	text-align: center;
 	font-size: 30px;
-	padding: 150px;
+	padding: 100px;
 }
 
 .introduction{
 	text-align: center;
 	font-size: 30px;
-	background-colar: lightgreen ;
+	background-colar: beige ;
 	outline: 2px dashed black;
 	padding: 10px;
+}
+
+h2 {
+	font-size: 40px;
 }
 
 .description{
 	display: flex;
 	font-size: 20px;
 
-}
-
-h2 {
-	font-size: 50px;
 }
 
 .image{
@@ -55,6 +55,7 @@ h2 {
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
