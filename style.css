@@ -56,14 +56,15 @@ h2 {
 }
 
 ul {
+	list-style: none;
 	display: flex;
-	gap: 20px;
 }
 
 .logo{
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
