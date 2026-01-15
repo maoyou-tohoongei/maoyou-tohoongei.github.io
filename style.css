@@ -53,17 +53,20 @@ h2 {
 
 .topic{
 	text-align: center;
+	text-size: 30px;
 }
 
 ul {
 	list-style: none;
 	display: flex;
+	gap: 50px;
 }
 
 .logo{
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
