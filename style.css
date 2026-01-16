@@ -19,13 +19,14 @@ header{
 }
 
 .link {
-	font-size: 20px;
+	font-size: 30px;
+	text-align: center;
 }
 
 .summary{
 	text-align: center;
 	font-size: 30px;
-	padding: 70px;
+	padding: 80px;
 }
 
 h1 {
@@ -38,7 +39,7 @@ h1 {
 	font-size: 30px;
 	background-color: oldlace ;
 	outline: 2px dashed black;
-	padding: 15px;
+	padding: 20px;
 }
 
 h2 {
@@ -80,6 +81,7 @@ ul {
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
