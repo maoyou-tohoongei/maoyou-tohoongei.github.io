@@ -10,20 +10,22 @@ header{
 	letter-spacing: 10px;
 	text-align: center;
 	line-height: 2;
-	font-size: 80px;
+	font-size: 90px;
 	font-family: serif;
 }
 
 .jacket{
 	text-align: center;
-	object-fit: contain;
-	gap: 100px;
+}
+
+.link {
+	font-size: 20px;
 }
 
 .summary{
 	text-align: center;
 	font-size: 30px;
-	padding: 75px;
+	padding: 70px;
 }
 
 h1 {
@@ -78,6 +80,7 @@ ul {
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
