@@ -16,6 +16,8 @@ header{
 
 .jacket{
 	text-align: center;
+	object-fit: contain;
+	gap: 100px;
 }
 
 .summary{
@@ -71,6 +73,7 @@ ul {
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
