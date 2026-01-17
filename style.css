@@ -77,13 +77,14 @@ ul {
 
 .link {
 	display: flex;
-	gap: 10px;
+	justify-content: space-around;
 }
 
 .logo{
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
