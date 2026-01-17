@@ -75,10 +75,16 @@ ul {
 	padding: 20px;
 }
 
+.link {
+	display: flex;
+	gap: 10px;
+}
+
 .logo{
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
