@@ -33,7 +33,7 @@ h1 {
 	text-align: center;
 	font-size: 30px;
 	background-color: oldlace ;
-	outline: 10px dashed black;
+	outline: 5px dashed black;
 	padding: 20px;
 }
 
@@ -71,7 +71,7 @@ ul {
 .sns {
 	text-align: center;
 	font-size: 30px;
-	outline: 5px border indianred;
+	outline: 5px double indianred;
 	padding: 20px;
 }
 
@@ -79,6 +79,7 @@ ul {
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
