@@ -60,6 +60,7 @@ h2 {
 .topic{
 	text-align: center;
 	font-size: 30px;
+	padding: 10px;
 }
 
 ul {
@@ -71,11 +72,12 @@ ul {
 .sns {
 	text-align: center;
 	font-size: 30px;
-	outline: 5px double indianred;
+	outline: 10px double indianred;
 	padding: 20px;
 }
 
 .link {
+	font-size: 40px;
 	display: flex;
 	justify-content: space-around;
 }
@@ -84,6 +86,7 @@ ul {
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
