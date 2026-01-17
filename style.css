@@ -69,10 +69,22 @@ ul {
 	gap: 50px;
 }
 
+.sns {
+	text-align: center;
+	font-size: 30px;
+	outline: 10px double indianred;
+	padding: 20px;
+}
+
+.link {
+	font-size: 40px;
+}
+
 .logo{
 	text-align: center;
 	font-size: 30px;
 }
+
 
 
 
