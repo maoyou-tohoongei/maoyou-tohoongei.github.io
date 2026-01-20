@@ -9,8 +9,8 @@ header{
 .caption{
 	text-align: center;
 	line-height: 2;
-	font-size: 80px;
-	font-family: "A P-OTF 欧体楷書　StdN" , serif;
+	font-size: 70px;
+	font-family: serif;
 }
 
 .jacket{
@@ -84,6 +84,7 @@ ul {
 	font-size: 30px;
 	padding: 20px;
 }
+
 
 
 
