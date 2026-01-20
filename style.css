@@ -10,7 +10,7 @@ header{
 	text-align: center;
 	line-height: 2;
 	font-size: 80px;
-	font-family: Outai Kaisho;
+	font-family: "A P-OTF 欧体楷書　StdN" , serif;
 }
 
 .jacket{
@@ -84,6 +84,7 @@ ul {
 	font-size: 30px;
 	padding: 20px;
 }
+
 
 
 
