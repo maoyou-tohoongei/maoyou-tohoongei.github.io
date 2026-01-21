@@ -85,6 +85,11 @@ ul {
 	padding: 20px;
 }
 
+.album{
+	width: 80px;
+	aspect-ratio: 1/1;
+	object-fit: cover;
+}
 
 
 
