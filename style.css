@@ -9,7 +9,7 @@ header{
 .caption{
 	text-align: center;
 	line-height: 2;
-	font-size: 80px;
+	font-size: 100px;
 	font-family: serif;
 	letter-spacing: 10px;
 }
@@ -85,6 +85,7 @@ ul {
 	font-size: 30px;
 	padding: 20px;
 }
+
 
 
 
