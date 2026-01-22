@@ -9,9 +9,9 @@ header{
 .caption{
 	text-align: center;
 	line-height: 2;
-	font-size: 60px;
+	font-size: 80px;
 	font-family: serif;
-	letter-spacing: 5px;
+	letter-spacing: 10px;
 }
 
 .jacket{
@@ -85,6 +85,7 @@ ul {
 	font-size: 30px;
 	padding: 20px;
 }
+
 
 
 
