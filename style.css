@@ -63,10 +63,9 @@ h2 {
 
 }
 
-ul {
-	list-style: none;
+.goods {
 	display: flex;
-	gap: 50px;
+	
 }
 
 .sns {
@@ -85,6 +84,7 @@ ul {
 	font-size: 30px;
 	padding: 20px;
 }
+
 
 
 
