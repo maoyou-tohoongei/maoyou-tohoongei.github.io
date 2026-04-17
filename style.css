@@ -91,7 +91,8 @@ h2 {
 }
 
 .zoom:hover {
-	transform: scale(2.0);
+	width: 200px;
+	height: 450px;
 }
 
 
