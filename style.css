@@ -86,12 +86,12 @@ h2 {
 	padding: 20px;
 }
 
-.recording img {
+.zoom {
 	transition: transform 0.3s;
 }
 
-.recording:hover {
-	transform: scale(3.0);
+.zoom:hover {
+	transform: scale(2.0);
 }
 
 
