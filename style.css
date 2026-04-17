@@ -92,7 +92,7 @@ h2 {
 
 .zoom:hover {
 	transform: scale(2.0);
-	
+	aspect-ratio: auto;
 }
 
 
